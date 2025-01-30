@@ -10,7 +10,6 @@ Original file is located at
 import streamlit as st
 import pandas as pd
 import altair as alt
-import plotly.express as px
 
 st.set_page_config(
     page_title="Netflix Dashboard",
